@@ -30,7 +30,7 @@ To answer questions, I created 3 models for the data on the 3 offer types: Buy O
 
 1) The feature importance given by all 3 models illustrate that the tenure of a member, income and age are the three important predictor of the effectiveness of an offer. 
 
-2) 3 separate models are used to predict the effectiveness of each offer type ended up with good accuracy for the 2 of the models (82.83% for BOGO and 87.35% for discount), while slightly less accurate performance for another informational offers (75.3%)
+2) 3 separate models are used to predict the effectiveness of each offer type ended up with good accuracy for the 2 of the models (83.3%for BOGO and 86.9% for discount), while slightly less accurate performance for another informational offers (76.1%)
 
 
 <a id='File'></a>
